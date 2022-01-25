@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/msalazarpa.github.io/Pagina_Publicaciones/static/css/main.073c9b0a.css",
+    "main.js": "/msalazarpa.github.io/Pagina_Publicaciones/static/js/main.e3391594.js",
+    "static/js/787.5b5dfee8.chunk.js": "/msalazarpa.github.io/Pagina_Publicaciones/static/js/787.5b5dfee8.chunk.js",
+    "static/media/logo.svg": "/msalazarpa.github.io/Pagina_Publicaciones/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/msalazarpa.github.io/Pagina_Publicaciones/index.html",
+    "main.073c9b0a.css.map": "/msalazarpa.github.io/Pagina_Publicaciones/static/css/main.073c9b0a.css.map",
+    "main.e3391594.js.map": "/msalazarpa.github.io/Pagina_Publicaciones/static/js/main.e3391594.js.map",
+    "787.5b5dfee8.chunk.js.map": "/msalazarpa.github.io/Pagina_Publicaciones/static/js/787.5b5dfee8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e3391594.js"
+  ]
+}
