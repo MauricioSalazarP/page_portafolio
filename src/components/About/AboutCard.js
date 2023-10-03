@@ -8,25 +8,24 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Sukrut Rahane </span>
-            from <span className="purple"> Nashik, India.</span>
-            <br /> I am a Third Year student pursuing B.E.
-            in Artificial intelligence & Data Science from Pune University.
+            Bienvenido Soy  <span className="purple">Mauricio Salazar </span>
+            de <span className="purple"> Bogota, Colombia</span>
+            <br /> Tengo experiencia en  diseño, planeación y optimización de redes 2G-3G-4G, acompañamiento y evaluacion de soluciones dedicadas B2B & B2C, analisis estadistico KPIs evaluacion de indices de calidad, manejo de bases de datos.
             <br />
-            Additionally, I am enthusiastic about Machine Learning.
+            Adicionalmente trabajo en el desarrollo de sitios web con tecnologias como Wordpress, Django, React
             <br />
             <br />
-            Some of my hobbies are 
+            Principales disciplinas en que me desempeño
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Ingenieria Radio Frecuencia
             </li>
             <li className="about-activity">
-              <ImPointRight /> Partying
+              <ImPointRight /> Desarrollo de paginas WEB
             </li>
             <li className="about-activity">
-              <ImPointRight /> EDM
+              <ImPointRight /> Desarrollo de Software
             </li>
           </ul>
           
