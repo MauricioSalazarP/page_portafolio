@@ -17,7 +17,7 @@ function Footer() {
           
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Sukrut Rahane</h3>
+          <h3>Copyright © {year} Publicaciones Salazar</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/"
+                href="www.linkedin.com/in/mauriciosalazarpaez"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

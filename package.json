@@ -2,7 +2,7 @@
   "name": "prueba",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mauriciosalazarp.github.io/page_portafolio/",
+  "homepage": "https://mauriciosalazarp.github.io/page_portafolio",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "pages": "^0.0.16",

@@ -11,11 +11,15 @@ html {
     rgba(12, 10, 22, 0.863)
   );
 
-  --imp-text-color: #4a607e;
+  --imp-text-color: #1a2127;
 }
 
 .purple {
   color: var(--imp-text-color) !important;
+}
+
+.purpleb {
+  color:#4aa5ac;
 }
 
 button:focus {
@@ -76,7 +80,7 @@ button:focus {
 /* Navbar Section  */
 /* --------- */
 .sticky {
-  background-color: #050407a9 !important;
+  background-color: #0504076e !important;
   transition: all 0.3s ease-out 0s !important;
   box-shadow: 0px 10px 10px 0px rgba(9, 5, 29, 0.171) !important;
   backdrop-filter: blur(15px) !important;
@@ -144,7 +148,7 @@ button:focus {
   .navbar {
     padding: 1rem 2rem !important;
     font-size: 1.4rem !important;
-    background-color: #181a27 !important;
+    background-color: #181a2788 !important;
   }
   .navbar-nav .nav-item a::after {
     display: none !important;

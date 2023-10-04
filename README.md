@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# Portafolio de Mauricio Salazar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+¡Hola, soy **Mauricio Salazar**, un Ingeniero de Sistemas con experiencia en desarrollo web y radiofrecuencia. ¡Bienvenido a mi portafolio en línea!
 
-## Available Scripts
+## Sobre Mí
 
-In the project directory, you can run:
+Soy un apasionado profesional con sede en [Tu Ubicación] y me especializo en el desarrollo web y la radiofrecuencia. Mi enfoque principal es crear soluciones digitales excepcionales y optimizar redes de radiofrecuencia.
 
-### `npm start`
+Trabajo con tecnologías de vanguardia, incluyendo el desarrollo web con herramientas como React, Django y WordPress. Además, tengo experiencia en el diseño, planificación y optimización de redes 2G, 3G y 4G, así como en la evaluación de soluciones dedicadas B2B y B2C.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Portafolio Destacado
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Proyecto de Desarrollo Web XYZ** - [Breve descripción del proyecto y tu contribución]
+- **Optimización de Red 4G para [Nombre de la Empresa]** - [Breve descripción del proyecto y tu contribución]
+- **Solución Radiofrecuencia para [Nombre del Cliente]** - [Breve descripción del proyecto y tu contribución]
 
-### `npm test`
+Puedes explorar más de mis proyectos en mi [sitio web de portafolio](enlace a tu portafolio).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contacto
 
-### `npm run build`
+¡Me encantaría conectarte contigo! Si estás interesado en trabajar juntos en un proyecto o simplemente quieres charlar sobre desarrollo web o radiofrecuencia, no dudes en ponerte en contacto conmigo:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Correo Electrónico: [tu correo electrónico]
+- LinkedIn: [tu perfil de LinkedIn]
+- GitHub: [tu perfil de GitHub]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Espero tener noticias tuyas pronto y gracias por visitar mi portafolio!
