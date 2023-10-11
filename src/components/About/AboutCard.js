@@ -7,7 +7,7 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
+          <p style={{ textAlign: "revert", paddingLeft: 15 }}>
             ¡Hola! Soy <span className="purpleb"><strong>Mauricio Salazar</strong></span> de <span className="purpleb">Bogotá, Colombia</span>.
             <br />
             <br />

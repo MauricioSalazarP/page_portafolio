@@ -17,11 +17,14 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   const [load, upadateLoad] = useState(true);
+  const [showContent, setShowContent] = useState(false); // Estado adicional para controlar la visibilidad del contenido
+
 
   useEffect(() => {
     const timer = setTimeout(() => {
       upadateLoad(false);
-    }, 1200);
+      setShowContent(true); 
+    }, 1300);
 
     return () => clearTimeout(timer);
   }, []);
@@ -30,14 +33,21 @@ function App() {
     <Router>
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
+      {showContent && (
+        <>
         <Navbar />
         <ScrollToTop />
-        <Routes>
+          <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="*" element={<Navigate to="/"/>} />
+          
         </Routes>
-        <Footer />
+        
+         
+      <Footer />
+      </>
+      )}
       </div>
     </Router>
   );
