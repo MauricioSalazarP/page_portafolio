@@ -38,13 +38,11 @@ function App() {
         <Navbar />
         <ScrollToTop />
           <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/page_portafolio/" element={<Home />} />
           <Route path="/about" element={<About />} />
-          <Route path="*" element={<Navigate to="/"/>} />
+          <Route path="*" element={<Navigate to="/page_portafolio/"/>} />
           
-        </Routes>
-        
-         
+        </Routes>   
       <Footer />
       </>
       )}
