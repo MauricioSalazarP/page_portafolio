@@ -11,7 +11,7 @@ function AboutCard() {
             ¡Hola! Soy <span className="purpleb"><strong>Mauricio Salazar</strong></span> de <span className="purpleb">Bogotá, Colombia</span>.
             <br />
             <br />
-            Tengo experiencia en el diseño, planificación y optimización de redes 2G-3G-4G, así como en el acompañamiento y evaluación de soluciones dedicadas tanto para negocios (B2B) como para consumidores (B2C). Además, cuento con habilidades en análisis estadístico de KPIs y evaluación de índices de calidad, así como en el manejo de bases de datos.
+            Tengo experiencia en el diseño, planificación y optimización de redes 2G-3G-4G, así como en el acompañamiento y evaluación de soluciones dedicadas tanto para negocios (B2B) como para consumidores (B2C). Además, cuento con habilidades en análisis estadístico de KPIs y evaluación de índices de calidad, así como en el manejo de bases de datos, herramientas OSS (Nokia - Huawei), software de analisis QoS - QoE como (TEMS - NEMO- NQDI).
             <br />
             <br />
             También me desempeño en el desarrollo de sitios web utilizando tecnologías como Wordpress, Django y React, así como en análisis geográficos con herramientas como QGIS y Google Earth.
