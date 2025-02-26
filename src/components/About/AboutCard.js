@@ -21,13 +21,13 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Ingeniería en Radio Frecuencia
+              <ImPointRight /> Ingeniería en sistemas Especialista en telecomunicaciones
             </li>
             <li className="about-activity">
-              <ImPointRight /> Desarrollo de Páginas Web
+              <ImPointRight /> Planeacion RF y Optimización de redes móviles
             </li>
             <li className="about-activity">
-              <ImPointRight /> Desarrollo de Software
+              <ImPointRight /> Desarrollo de herramientas Software
             </li>
           </ul>
         </blockquote>
